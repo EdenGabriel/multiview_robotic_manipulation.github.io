@@ -134,8 +134,8 @@ body {
 
 /* my */
 .container.is-max-desktop {
-  max-width: 70% !important; 
-  width: 70% !important;
+  max-width: 85% !important; 
+  width: 85% !important;
 }
 
 /* 统一 GIF 容器样式 */
